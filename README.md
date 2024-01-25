@@ -2,7 +2,9 @@
 
 > [!CAUTION]
 > Используйте ядро esp32 до 1.0.6
-
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 
 # Компаненты:
